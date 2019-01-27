@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Remove Duplicates from Array'/>
+        <page name='Best Time To Buy and Sell Stock II'/>
+        <page name='Contains Duplicates'/>
+        <page name='Single Number'/>
+    </pages>
+</playground>
