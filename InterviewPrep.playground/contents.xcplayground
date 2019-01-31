@@ -7,5 +7,7 @@
         <page name='Single Number'/>
         <page name='Protocol Practice'/>
         <page name='Unique Ingredients '/>
+        <page name='Same Elements in Two Arrays'/>
+        <page name='Product Except Element at i '/>
     </pages>
 </playground>
