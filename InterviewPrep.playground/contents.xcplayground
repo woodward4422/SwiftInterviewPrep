@@ -10,5 +10,6 @@
         <page name='Same Elements in Two Arrays'/>
         <page name='Product Except Element at i '/>
         <page name='Stack Implementation'/>
+        <page name='Same Elements in Two Arrays Optomization'/>
     </pages>
 </playground>
