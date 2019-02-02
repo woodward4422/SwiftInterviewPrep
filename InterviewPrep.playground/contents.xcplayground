@@ -11,5 +11,7 @@
         <page name='Product Except Element at i '/>
         <page name='Stack Implementation'/>
         <page name='Same Elements in Two Arrays Optomization'/>
+        <page name='How many Islands?'/>
+        <page name='Count Amount of Islands'/>
     </pages>
 </playground>
